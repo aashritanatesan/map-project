@@ -68,3 +68,12 @@
   - The bond's rules (feelings yes, thoughts no) were the most common slip. Fix: add an explicit "what the tether can't do" list to the world doc.
   - Doing a full bible update after every chapter was slow, so updates were batched every 4 to 7 chapters. Each chapter still has its own facts entry. Fix: allow batching in the Continuity Keeper spec.
 - **Next:** Agent 5, the Editor (a full read, at most two rounds, a short report), then your final read.
+
+## 2026-10-28 · Agent 5, Editor: Book 1 (manual run)
+- **In:** all 28 chapters (read in full), bible v29, voice guide, outline.
+- **Round 1:** 12 continuity and plot fixes, about 8 repetition fixes, one scene reordered (ch18). No cuts for pacing.
+- **Round 2:** every fix re-checked in context, plus the global checks (names, tell timing, lengths). Clean.
+- **Out:** `05-edited/book1/manuscript.md`, per-chapter files, `report.md`. Status: waiting for Aashrita's final read.
+- **What broke:**
+  - The Continuity Keeper missed day-count errors in dialogue ("two days ago" and the like). Fix: the bible needs a day-by-day timeline table, and the Keeper should check every relative time phrase against it.
+  - Scene order inside a chapter (ch18) isn't checked by anyone. Fix: add an in-chapter chronology check to the Editor's round 1.
