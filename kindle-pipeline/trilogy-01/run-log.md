@@ -16,3 +16,12 @@
 - **Out:** `01-world/world.md` (setting, 9 rules, factions, couple, pressures). Status: waiting for Aashrita's approval before Part 2.
 - **What broke:**
   - The spec doesn't say who names the leads. The planner named them (Tamsin Rook and Senna Ashgrave). Fix: add a "name the couple" step, or names as an input.
+
+## 2026-10-28 · Checkpoint: world approved
+- Aashrita approved `world.md` and kept the names (Tamsin Rook, Senna Ashgrave) and the heat level (1-2 on-page love scenes per book).
+
+## 2026-10-28 · Agent 2, Series Planner, Part 2: trilogy outline (manual run)
+- **Out:** `02-outline/trilogy.md` (premise, 3 book outlines of 28/27/27 chapters, love scenes marked, cliffhangers) and `03-bible/bible.md` v1 seeded from the world doc. Status: done.
+- **What broke:**
+  - The story bible template needs character looks, but neither the world doc nor the outline step asks for them. The planner invented them while seeding the bible. Fix: add "looks" to the world doc's couple section.
+  - The Drafter needs the voice sample, which doesn't exist yet. Fix: make writing the voice sample an explicit step (Planner or a human) before the Drafter.
