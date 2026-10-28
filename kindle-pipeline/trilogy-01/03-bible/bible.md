@@ -1,4 +1,4 @@
-STORY BIBLE v9 (updated after Book 1, chapter 8; v3 to v9 are one entry per chapter, logged below)
+STORY BIBLE v15 (updated after Book 1, chapter 14; v3 to v15 are one entry per chapter, logged below)
 
 WORLD RULES
 - Seven-Year Chain: a border counts only if a sworn human surveyor walked and chained it within 7 years, or it lapses to open ground where anyone may hunt, wolves included. -> Puts Cass's job and Mara's pack's survival on the same line, with a deadline that keeps them together.
@@ -83,13 +83,36 @@ ESTABLISHED FACTS (running list)
 - ch8: Cass cited "Article Four": interfering with a sworn survey is a hanging offence. She stepped in front of Mara and wrapped the chain around a hunter's forearm. Mara drew on the leader, who backed off: "We'll still be here."
 - ch8: Mara implied she shot a hunter who once came up the spur after her cousin.
 - ch8: Mara wiped mud off Cass's cheek with her thumb. Next is Eleven and the ravine.
+- ch9: Cairn Ten matched the Office copy. Its mark points north across the ravine to Eleven. The ravine runs east-west, about 100 ft across at the top. A goat path leads down and up. Cass took the angle and the width by theodolite.
+- ch9: In the ravine: a real rockfall fan (shoulder-high, about 40 ft wide), but the fresh stones are UNDER mossy ones, as if staged to hide or enlarge the fall. Mara built a knee-high memorial cairn of seven stones with a larch twig on top for June; she searched for two days.
+- ch9: Someone on the rim triggered a second rockfall. Mara tackled Cass against the cliff base. One slate shard cut Cass's LEFT palm (base of thumb to little finger) and Mara's RIGHT forearm. Mara's right hand closed over Cass's, and the blood mixed. THE TETHER CAUGHT (day 7, afternoon).
+- ch9/10: Tether effects confirmed: shared pain (each feels the other's injuries, the silver burn, stubbed toes), the compass sense, and an overwhelming awareness of scent. NO telepathy: they feel emotions and pain, not thoughts.
+- ch10: A pry bar (taller than Mara, wedge tip, scraped bright) was found jammed in a crack on the rim. Bootprints of one heavy person led north along the rim. Its scent: lamp oil and paper (Ruth adds "fear" in ch14). Cass carries it lashed to her pack as evidence.
+- ch10: Cairn Eleven carries June's spring mark, so June crossed the ravine alive. A tiny "13" is scratched beside her J.
+- ch10: Night of day 7: the moon was waxing, "four nights off full", so FULL MOON IS NIGHT 11. The tell first seen: a thin bright gold ring at the edge of each iris, on both of them.
+- ch11: Tether lore from Ruth's songs: once in a generation per pack. Mara's grandmother and grandfather had it; Ruth didn't. "Not while you're both alive." "Many of the tethered don't outlive each other by long." The tell shows only under moonlight and can be hidden indoors or in daylight; at full moon it "shines like a lamp". Humans aren't supposed to be able to catch it.
+- ch11: Clause Nine's first verb is "bond", and the tether counts. Death for Mara; Cass loses her right (chain) hand, every survey she has signed is void, and the Highwood line would lapse.
+- ch11: The plan: hide it, finish the survey "strictly business", and don't tell Ruth (who grew up watching a tethered pair). Mara will turn at the hold at full moon; Cass stays inside. They shook on it (Cass's LEFT hand).
+- ch11: June asked Mara in spring whether a human could catch the tether. Mara said it was impossible.
+- ch12: The 66-ft chain length became their "distance". Mara grabbed Cass's wrist on a ledge on the climb to Twelve. Cass writes down a wrong angle (a first). Mara missed a hare because Cass winced. Mara hears Cass mutter (wolf hearing).
+- ch12: Cairn Thirteen: a big, old, broad cairn on a bare ledge with a vast view (Stonebridge visible). On its north side, a loose bottom stone with disturbed lichen; Mara smelled wax and June. Behind it, a hollow holding an oilcloth package sealed with red wax stamped J.M.: June's personal leather field book, her duplicate of page 41 ("41. Duplicate."), and a note.
+- ch12/13: Surveyors send field pages down to the Office by runner every few cairns and keep duplicates.
+- ch13: June's note (key lines): "If you've found this, they've already tried to kill you." The Office copy is false: cairns moved inward between Nine and Fourteen, Nineteen and Twenty-Four, and at Twenty-Seven (THREE sections), with new cairns stamped S.O. "Trust the marks. The line through the circle always points to the true next cairn." She sent her Nine reading on page 41. "Do not tell anyone who smells of the Office." File in front of witnesses. The true line runs a quarter mile out for nearly four miles. "If they come for me before I'm done, I won't wait to be found." "Highwood's escort is honest. Sullen, but honest ... I didn't want her standing next to me when it happened."
+- ch13: June's true Nine: bearing 49 degrees, 57 chains from Eight (Office: 52 degrees, 38 chains). June chained Nine to Fourteen on the old marks and scouted 19 to 24 and 27 by pacing. The lost land includes the Long Wood, the Pools, and the south slope above the ravine. Earlier "slips": seven years ago a rockfall, fourteen years ago a stream changing course, before that a landslide. Ruth wrote letters every time.
+- ch13: Cass confessed her lie at Nine and showed Mara her hidden numbers. "Now I'm sure." Plan: walk the true line, rebuild the toppled cairns, file in front of witnesses. River "would sell its own pups" (Ruth's saying).
+- ch14: The Highwood hold isn't on any map. It sits in a sheltered bowl of giant larches: a long, low slate and timber hall, turf roof with ferns, every post and beam carved with border songs (notches). About two dozen smaller buildings, goats, children, about 50 people. A fire channel runs the length of the hall. One post is the song of the Long Wood (lost before Mara was born).
+- ch14: Lena: about Cass's age, broad-shouldered, black-haired, a long knife, a half-healed split lip, amber eyes with a dark rim. She's Mara's cousin (her aunt's daughter). Hostile: "the Office's new pet".
+- ch14: Ruth: SMALL, white-haired, a thick white braid, a walnut face, thin spotted shaking hands, piercing amber eyes, wrapped in furs. Coughs blood. She read June's whole book, smelled the pry bar, and led the hall in singing the Long Wood. She agreed Highwood will see Cass to the end. Full moon "two nights from now" (night 11). Cass will stay in the guesthouse with the shutters closed. "Whatever the moon has to show me, I'd rather not see it in my hall." She suspects.
 
 OPEN THREADS
 - Who killed (or tried to kill) June, and why the Office map is falsified.
-- The missing page 41 of June's notes (set up B1 ch1).
+- RESOLVED ch12: page 41 (June's duplicate found at Thirteen; the Office original is presumed removed by Voss).
 - The recut line between Cairns Nine and Fourteen (B1 ch1; Cass's readings disagree in ch6).
 - RESOLVED ch7: June's escort was Mara.
-- Cass's hidden second set of numbers (when does she tell Mara? ch13).
+- RESOLVED ch13: Cass told Mara about her hidden numbers.
+- Who was on the ravine rim with the pry bar (lamp oil, paper, fear)?
+- Ruth's suspicion of the tether (full moon, ch16).
+- "I won't wait to be found": June may have planned to disappear.
 - "Office told us there'd be no trouble": who in the Office tipped off the hunters?
 - The Guild's mineral rights on the spur, and its interest in Highwood land lapsing.
 - Can a human hold pack ground (the ground-right clause)?
@@ -99,6 +122,10 @@ OPEN THREADS
 
 CONTRADICTION LOG
 - B1 ch1: The dead wolf on the hunter's cart was drawn in full wolf form on open ground -> the world rule says wolves can only half-shift off their own ground. FIX APPLIED: the body is half-shifted (a man's arm furred from the elbow, clawed hand).
+- B1 ch12: The Office page 41 was in June's hidden book, but the Office index (ch1) says the Office received 41 pages. FIX APPLIED: the hidden sheet is June's DUPLICATE of page 41.
+- B1 ch12, ch14: Two lines implied telepathy (Mara answering an unspoken thought; Ruth "shown it in her head"). The world rules have no telepathy. FIX APPLIED: Cass mutters aloud; Ruth refers to the letter in Mara's coat.
+- B1 ch13: The sketch said "four places" but June listed three sections. FIX APPLIED: three.
+- B1 ch14: Ruth said full moon is "tomorrow", but ch10 makes it night 11 and the arrival is day 9. FIX APPLIED: "two nights from now".
 - B1 ch4: Mara said hunters left Aled on a post for two days -> ch1 has Aled on a cart to Stonebridge. FIX APPLIED: he was sold to the bounty office, and Ruth bought the body back.
 - B1 ch7: Mara's eyes described as "black with a thin gold edge" before the bond, which would read as the tell. FIX APPLIED: "dark ... a glint of amber".
 - B1 ch1: The bargeman said a corner of "the old Highwood line" lapsed last spring -> the Highwood line is still valid until first snow. FIX APPLIED: it's the "east spur", a separate line walked in a different year.

@@ -23,3 +23,21 @@ The storm drives them to the goat herders' bothy. They change back to back and s
 
 ## Chapter 8
 The line from Nine to Ten crosses a neck of open ground. Mara steps onto it and dims. Three hunters ambush them, and the leader says "Office told us there'd be no trouble on this stretch", with Guild bounties doubled for Highwood. Cass steps in front of Mara, cites the treaty and whips the chain around a hunter's arm; Mara draws on the leader, and the hunters retreat. Back on Highwood ground Cass collapses. Mara, furious and frightened: "Don't ever do that again." She wipes mud from Cass's cheek. Tomorrow: the ravine. End: adrenaline crash, tenderness.
+
+## Chapter 9
+Cairn Ten is easy, and the ravine lies between it and Eleven. They climb down. Mara shows Cass the seven-stone memorial she built for June. Cass notices the rockfall looks staged: fresh stones under mossy ones. A figure moves on the rim, and a second rockfall comes down. Mara tackles Cass to safety; a shard cuts Cass's palm and Mara's forearm, and their blood mixes. Cass feels a second heartbeat, Mara's pain, her direction and her scent. Mara: "No. Not you. Not now." End: shock, wonder, fear.
+
+## Chapter 10
+Shared pain is undeniable; Mara flinches when Cass's wound is touched. Cass can sense Mara's location with her eyes shut. Climbing to Eleven, Mara finds the pry bar on the rim, scented of lamp oil and paper. June's mark on Eleven has a tiny "13" beside it. Mara camps thirty yards away; Cass is hurt by her distance. At night Cass follows Mara's grief to the rim and finds her crying. In the moonlight they both have gold rings in their eyes. "It's called the tether. And it's going to get one of us killed." End: dread, longing.
+
+## Chapter 11
+Mara explains the tether: rare, unbreakable, shared pain, the compass sense, the tell (it can't be hidden at full moon), and impossible for humans. Cass realises that Clause Nine's "bond" means them: death for Mara, Cass's chain hand, and the line voided. Mara admits "not you" meant not someone she could lose like this. They agree to hide it, keep things strictly business, and stay apart at the hold, where Ruth would recognise it. They shake on it and both feel it. Mara reveals June once asked whether a human could catch the tether. End: fear, tenderness, mystery.
+
+## Chapter 12
+Strictly business fails comically and tenderly: a shared stubbed toe, Cass writing down a wrong angle, Mara missing a hare, Mara catching Cass on a ledge. At Cairn Thirteen, following June's "13", Mara smells wax and June at a loose stone. Behind it, an oilcloth package sealed J.M.: June's field book, her duplicate of page 41, and a note: "To the next surveyor. If you've found this, they've already tried to kill you." End: chill, purpose.
+
+## Chapter 13
+June's note: the Office line is false (cairns moved inward in three sections, four miles of border a quarter mile deep). Trust the marks. File in front of witnesses. She sent Mara away to protect her. Mara breaks down. Cass walks her through June's flawless numbers, then confesses her lie at Nine and shows her own hidden working: "Now I'm sure." They lay out the evidence: Voss, Theo, the hunters, the pry bar. Plan: walk the true line and file it publicly. First real trust. End: resolve, warmth.
+
+## Chapter 14
+Arrival at the hidden Highwood hold: carved song-posts, a long fire, fifty watchful wolves. Lena, Mara's cousin, confronts Cass. Ruth, small and ailing but razor-sharp, reads June's book, smells the pry bar ("fear"), and leads the hall in singing the Long Wood. She pledges Highwood's support. Noticing the too-wide gap on the bench, she orders Cass shuttered in the guesthouse for the full moon in two nights: "Whatever the moon has to show me, I'd rather not see it in my hall." End: suspicion, nerves.
