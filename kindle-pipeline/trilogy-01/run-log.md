@@ -46,3 +46,25 @@
   - The first draft was 2,545 words, over the 2,500 limit, and had to be trimmed. Fix: tell the Drafter to aim for about 2,300 so revisions have room.
   - The Drafter spec's heat example ("one in book 2, a bigger payoff in book 3") doesn't match the outline, which puts a love scene in Book 1 chapter 21. Fix: align the spec with the outline, or confirm Book 1 has one.
   - The voice sample is actually chapter 2's scene. That's handy, but the Drafter needs a rule on whether to reuse it word for word.
+
+## 2026-10-28 · Agents 3 + 4: Book 1, chapters 2 to 28 (manual run, whole book in one go at Aashrita's request)
+- **Out:** chapters 2 to 28 in `04-drafts/book1/`, the compiled `book1-full-draft.md` (about 58,000 words, 28 chapters, each 2,000 to 2,500 words), `summaries.md` for every chapter, bible v29.
+- **Love scene:** Book 1, chapter 21, kept as Aashrita asked.
+- **The Continuity Keeper caught and fixed about 20 contradictions** (all listed in the bible's contradiction log). They fall into these groups:
+  - Powers the bond doesn't have, which the draft kept slipping into: telepathy, sharing scent, a "missing" compass.
+  - Shifting rules: wolves shown unable to shift on their own ground.
+  - Moon and day timeline.
+  - Counts and distances: cairn counts, bridge length vs chain length, Cass's age and years of training.
+  - Logic of the deadline: what "first snow" means. Resolved with the oath-card definition, which is now canon.
+- **Outline changes made while drafting** (the Planner should fold these into `trilogy.md`):
+  - The last chain-length is at the true Nine on the way back down, not at Thirty-One.
+  - The second surveyor is named Ambrose Holt.
+  - Theo's mother leads the River council.
+  - The Hollow elder gives Cass a brass link marked J.M.
+  - Lena's team rebuilds the false cairns.
+- **What broke:**
+  - Drafts kept coming in about 300 to 400 words short and needed a second pass. Fix: the Drafter prompt should ask for about 2,400 and list the scenes.
+  - Repeated phrases built up across chapters ("very still" 18 times, "for a long moment" 17). A cleanup pass cut them to 6 and 7. Fix: the Continuity Keeper should check repeated phrases every 5 chapters, not only facts.
+  - The bond's rules (feelings yes, thoughts no) were the most common slip. Fix: add an explicit "what the tether can't do" list to the world doc.
+  - Doing a full bible update after every chapter was slow, so updates were batched every 4 to 7 chapters. Each chapter still has its own facts entry. Fix: allow batching in the Continuity Keeper spec.
+- **Next:** Agent 5, the Editor (a full read, at most two rounds, a short report), then your final read.
