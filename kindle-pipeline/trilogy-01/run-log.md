@@ -34,3 +34,15 @@
 
 ## 2026-10-28 · Voice sample drafted
 - `voice-sample.md`: one page (Book 1, chapter 2, at the Highwood gate). Status: waiting for Aashrita's approval before the Drafter runs.
+
+## 2026-10-28 · Checkpoint: voice sample approved
+
+## 2026-10-28 · Agent 3, Drafter + Agent 4, Continuity Keeper: Book 1, chapter 1 (manual run)
+- **Out:** `04-drafts/book1/ch01.md` (2,493 words), `summaries.md`, bible v2, `03-bible/factsheet-b1-ch02.md`.
+- **The Continuity Keeper caught 2 contradictions, both fixed:**
+  - A full-form wolf was killed on open ground, which breaks the shifting rule. Changed to half-shifted.
+  - "The old Highwood line lapsed last spring" contradicts the first-snow deadline. Changed to the separate east spur.
+- **What broke:**
+  - The first draft was 2,545 words, over the 2,500 limit, and had to be trimmed. Fix: tell the Drafter to aim for about 2,300 so revisions have room.
+  - The Drafter spec's heat example ("one in book 2, a bigger payoff in book 3") doesn't match the outline, which puts a love scene in Book 1 chapter 21. Fix: align the spec with the outline, or confirm Book 1 has one.
+  - The voice sample is actually chapter 2's scene. That's handy, but the Drafter needs a rule on whether to reuse it word for word.
