@@ -1,4 +1,4 @@
-STORY BIBLE v2 (updated after Book 1, chapter 1)
+STORY BIBLE v9 (updated after Book 1, chapter 8; v3 to v9 are one entry per chapter, logged below)
 
 WORLD RULES
 - Seven-Year Chain: a border counts only if a sworn human surveyor walked and chained it within 7 years, or it lapses to open ground where anyone may hunt, wolves included. -> Puts Cass's job and Mara's pack's survival on the same line, with a deadline that keeps them together.
@@ -50,12 +50,48 @@ ESTABLISHED FACTS (running list)
 - ch1: June chained Cairns One to Eight in four days; her Office notes stop at Cairn Nine.
 - ch1: The Office index lists June's notes as 41 pages; only 40 are in the file. Page 41 is missing.
 - ch1: Cass told Voss she measures "accurately", not generously.
+- ch2: Innkeeper: first snow "three weeks or tomorrow". Larch gold spreading down the ridge daily.
+- ch2: Mining Guild quarries sit halfway up the road from Stonebridge. Guild stakes (yellow cloth, 14+ seen) on the east spur. The Guild bought the spur's mineral rights from the Office "last month". Cass logged the stake count, bearing and date in her notebook.
+- ch2: Highwood gate: two larches a cart's width apart and a bright red cairn. Mara has a bow and a quiver with red fletching, a black braid nearly to her waist, a worn patched leather coat buttoned to the throat, calluses on the first two fingers of her right hand, and a claw scar on her collarbone (three pale parallel lines).
+- ch2: Voss's sealed letter: if harm comes to the surveyor before the line is filed, the Office will regard the line as unwalked (it lapses).
+- ch2: Cass graduated first in triangulation and has the lowest chain errors in her year. No real surveys before this one.
+- ch2: Ruth "usually sends someone else" as escort. Mara: "Nobody else would." Cass: "That makes two of us."
+- ch2: A stream about 40 steps inside the gate tastes of iron and blood ("it's the stone").
+- ch3: Cairn marks: the previous surveyor's mark is a circle with a line through it plus the date (7 years ago); June's is "J.M." plus this spring's date. THE LINE IN THE CIRCLE POINTS TO THE NEXT CAIRN (Cass realises this in ch6).
+- ch3: Chaining method: Mara holds a brass end handle and never touches the links. Cass pins and calls each length.
+- ch3: A scree slope above the ravine lies between Cairns One and Two. Cairn Two matched the Office copy to within a thumb's width.
+- ch3: Silver burn: a flicked chain loop burned the back of Mara's RIGHT wrist (her draw hand). She kept Cass's salve tin. Silver burns take weeks to heal.
+- ch3: Mara's eyes in daylight: paler than they look, more gold than brown, with a darker rim. (Do not describe a gold RING before the bond.)
+- ch3: Three River scouts followed them from Cairn Two to Three. They moved camp at night.
+- ch4: Mara navigates by smell. River trades furs, safe passage for Guild carts, and news with Stonebridge. Highwood lost 2 miles in Mara's lifetime and 4 in Ruth's.
+- ch4: Mara won't answer whether she can change at will ("Not in front of surveyors").
+- ch4: Aled, the half-shifted body on the cart, was sold to the Stonebridge bounty office; Ruth bought him back. Six Highwood wolves carried him home across the east spur at dawn on day 4 and shifted when they crossed the border cairn. Wolf form: grey fur, about twice human size; clothes fall off.
+- ch5: Cairns 4 to 6 were chained in one day. The ridge bends south after Five, with River valleys on the left. Cairn Seven sits where Highwood, River and the line meet; River painted it with fresh ochre and its mark (three wavy lines).
+- ch5: Theo: about 30, red-blond, short beard, sunburned, blue eyes, silver buttons, walking stick. Offered River escort and beds. Said June said yes to River beds twice, and that he last saw June walking with Mara toward Cairn Eight. Said Voss asked him to watch Cass. "When you get to Nine, measure twice."
+- ch5: Ruth sings the old border songs under her breath when frightened.
+- ch6: Office copy: Cairn Nine at bearing 52 degrees, 38 chains from Eight. The current "Nine" is a small, neat, lichen-free cairn stamped "S.O." with this summer's date, built by "a man with a hammer". Highwood got a letter about a "slip".
+- ch6: The real Cairn Nine lies toppled under a fallen larch, about 19 to 20 chains (a quarter mile) northeast on the old bearing. It's mossy and has old ochre, the 7-year mark and June's spring mark, plus a fresh pry-bar gouge. There's no sign of a slip anywhere.
+- ch6: Cass's triangle from Seven, Eight and the Office Nine is out by more than 3 degrees. She keeps two sets of numbers; her private working is at the back of her field book, which she hides under her spare socks. She hasn't told Mara.
+- ch6: Mara: "You count when you lie, too."
+- ch7: The goat herders' bothy lies downhill off the line between Nine and Ten: one room, a hearth, a sleeping shelf, peat, tea, and grey blankets. Highwood keeps goats on the high pastures in summer; the herders went down a month ago.
+- ch7: Cass's backstory: a lowland farm. When she was 9, a bribed surveyor moved the boundary fence across the stream. The family lost the stream, then the field, then the farm. Her father died two years later; her mother is alive. At 11 Cass decided to be "the surveyor nobody could pay".
+- ch7: Ruth has had the cough for two years and may die this winter or next. When she dies, Mara becomes alpha.
+- ch7: Mara was June's escort in spring. June liked River's beds, called Mara "sullen" and wrote it down. At Eight, June sent Mara back to the hold to "measure something alone". By morning June was gone, and her chain was found in the ravine below Eleven. Mara blames herself.
+- ch7: Cass told Mara "I think so, not sure" about Nine. Mara: "Tell me when you're sure. Not before." They held hands back to back on the shelf.
+- ch8: A narrow neck of the east spur (open ground, 4 to 5 chains across) crosses the line between Nine and Ten. Mara can't shift there and visibly dims.
+- ch8: Hunters: three crossbows. The leader is a broad, weathered, grey-cropped woman of about 50 in a blood-stiff coat. One crossbow is likely the towpath one from ch1. She said: "Office told us there'd be no trouble on this stretch." The Guild pays double for Highwood this season (triple for the heir).
+- ch8: Cass cited "Article Four": interfering with a sworn survey is a hanging offence. She stepped in front of Mara and wrapped the chain around a hunter's forearm. Mara drew on the leader, who backed off: "We'll still be here."
+- ch8: Mara implied she shot a hunter who once came up the spur after her cousin.
+- ch8: Mara wiped mud off Cass's cheek with her thumb. Next is Eleven and the ravine.
 
 OPEN THREADS
 - Who killed (or tried to kill) June, and why the Office map is falsified.
 - The missing page 41 of June's notes (set up B1 ch1).
 - The recut line between Cairns Nine and Fourteen (B1 ch1; Cass's readings disagree in ch6).
-- Who was June's "sullen" escort? (Possibly Mara.)
+- RESOLVED ch7: June's escort was Mara.
+- Cass's hidden second set of numbers (when does she tell Mara? ch13).
+- "Office told us there'd be no trouble": who in the Office tipped off the hunters?
+- The Guild's mineral rights on the spur, and its interest in Highwood land lapsing.
 - Can a human hold pack ground (the ground-right clause)?
 - The Hollow's agenda.
 - Ruth's illness.
@@ -63,4 +99,6 @@ OPEN THREADS
 
 CONTRADICTION LOG
 - B1 ch1: The dead wolf on the hunter's cart was drawn in full wolf form on open ground -> the world rule says wolves can only half-shift off their own ground. FIX APPLIED: the body is half-shifted (a man's arm furred from the elbow, clawed hand).
+- B1 ch4: Mara said hunters left Aled on a post for two days -> ch1 has Aled on a cart to Stonebridge. FIX APPLIED: he was sold to the bounty office, and Ruth bought the body back.
+- B1 ch7: Mara's eyes described as "black with a thin gold edge" before the bond, which would read as the tell. FIX APPLIED: "dark ... a glint of amber".
 - B1 ch1: The bargeman said a corner of "the old Highwood line" lapsed last spring -> the Highwood line is still valid until first snow. FIX APPLIED: it's the "east spur", a separate line walked in a different year.
